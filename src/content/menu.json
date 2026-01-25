@@ -35,7 +35,7 @@
                 "name": "Ventricina",
                 "description": "Pomodoro, mozzarella, ventricina leggermente piccante",
                 "subEntries": null,
-                "price": "€8.00"
+                "price": "€8.50"
             },
             {
                 "name": "Capricciosa",
@@ -47,7 +47,7 @@
                 "name": "Napoletana",
                 "description": "Pomodoro, mozzarella, alici",
                 "subEntries": null,
-                "price": "€8.00"
+                "price": "€8.50"
             },
             {
                 "name": "Funghi",
@@ -88,13 +88,13 @@
                 "name": "Rucola",
                 "description": "Mozzarella, rucola, prosciutto crudo, grana",
                 "subEntries": null,
-                "price": "€9.00"
+                "price": "€9.50"
             },
             {
                 "name": "4 Formaggi",
                 "description": "Mix di formaggi",
                 "subEntries": null,
-                "price": "€8.00"
+                "price": "€8.50"
             },
             {
                 "name": "Pachino",
@@ -118,7 +118,7 @@
                 "name": "Zingara",
                 "description": "Mozzarella, capperi, funghi, peperoni, olive",
                 "subEntries": null,
-                "price": "€8.50"
+                "price": "€9.00"
             },
             {
                 "name": "Tedesca",
@@ -130,7 +130,7 @@
                 "name": "Tonno e Cipolla",
                 "description": "Mozzarella, tonno, cipolla",
                 "subEntries": null,
-                "price": "€8.00"
+                "price": "€8.50"
             },
             {
                 "name": "Vegetariana",
@@ -171,13 +171,13 @@
                 "name": "Tartufata",
                 "description": "Mozzarella, crema tartufata, funghi",
                 "subEntries": null,
-                "price": "€10.00"
+                "price": "€11.00"
             },
             {
                 "name": "Crema di Zucca",
                 "description": "Mozzarella, crema di zucca, funghi porcini, prosciutto crudo",
                 "subEntries": null,
-                "price": "€10.00"
+                "price": "€11.00"
             },
             {
                 "name": "Bufalina",
@@ -189,19 +189,19 @@
                 "name": "Bresaola",
                 "description": "Mozzarella, rucola, bresaola, grana",
                 "subEntries": null,
-                "price": "€11.00"
+                "price": "€11.50"
             },
             {
                 "name": "Stella",
                 "description": "Peperoni, alici, mozzarella di bufala a fine cottura",
                 "subEntries": null,
-                "price": "€9.50"
+                "price": "€10.00"
             },
             {
                 "name": "Baccalà*",
                 "description": "Baccalà, peperoni",
                 "subEntries": null,
-                "price": "€11.00"
+                "price": "€13.00"
             }
         ]
     },
@@ -212,7 +212,7 @@
                 "name": "Canapa",
                 "description": "Farina di canapa sativa, mozzarella, ventricina leggermente piccante, carciofini, rucola, grana",
                 "subEntries": null,
-                "price": "€10.50"
+                "price": "€11.00"
             },
             {
                 "name": "Curcuma",
@@ -229,25 +229,25 @@
                 "name": "Boscaiola Pinsa",
                 "description": "Mix di farina, mozzarella, funghi, salsiccia rossa fresca locale",
                 "subEntries": null,
-                "price": "€10.00"
+                "price": "€11.00"
             },
             {
                 "name": "Tartufata Pinsa",
                 "description": "Mix di farina, mozzarella, crema tartufata, funghi",
                 "subEntries": null,
-                "price": "€10.50"
+                "price": "€11.50"
             },
             {
                 "name": "Bresaola Pinsa",
                 "description": "Mix di farina, mozzarella, bresaola, rucola, grana",
                 "subEntries": null,
-                "price": "€11.00"
+                "price": "€11.50"
             },
             {
                 "name": "Pachino Pinsa",
                 "description": "Mix di farina, mozzarella, pomodorino pachino, rucola, grana",
                 "subEntries": null,
-                "price": "€10.00"
+                "price": "€11.00"
             }
         ]
     },
@@ -410,19 +410,7 @@
                 "price": "€4.00"
             },
             {
-                "name": "DAB - 50cl",
-                "description": "Bionda non filtrata",
-                "subEntries": null,
-                "price": "€3.50"
-            },
-            {
-                "name": "Forst - 33cl",
-                "description": "Bionda",
-                "subEntries": null,
-                "price": "€3.00"
-            },
-            {
-                "name": "DAB - 33cl",
+                "name": "Peroni Nastro Azzurro - 33cl",
                 "description": "Bionda",
                 "subEntries": null,
                 "price": "€3.00"
@@ -431,13 +419,13 @@
                 "name": "Hoegaarden - 33cl",
                 "description": "Bianca",
                 "subEntries": null,
-                "price": "€3.00"
+                "price": "€3.50"
             },
             {
                 "name": "Menabrea - 33cl",
                 "description": "Rossa",
                 "subEntries": null,
-                "price": "€3.00"
+                "price": "€3.50"
             },
             {
                 "name": "Birra alla spina - 0.3",
